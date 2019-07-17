@@ -1,0 +1,7 @@
+C:\Users\Administor\Desktop\C#\TCP클라이언트\TCPClient\TCP클라이언트\bin\Debug\TCP클라이언트.exe.config
+C:\Users\Administor\Desktop\C#\TCP클라이언트\TCPClient\TCP클라이언트\bin\Debug\TCP클라이언트.exe
+C:\Users\Administor\Desktop\C#\TCP클라이언트\TCPClient\TCP클라이언트\bin\Debug\TCP클라이언트.pdb
+C:\Users\Administor\Desktop\C#\TCP클라이언트\TCPClient\TCP클라이언트\obj\Debug\TCP클라이언트.csprojAssemblyReference.cache
+C:\Users\Administor\Desktop\C#\TCP클라이언트\TCPClient\TCP클라이언트\obj\Debug\TCP클라이언트.csproj.CoreCompileInputs.cache
+C:\Users\Administor\Desktop\C#\TCP클라이언트\TCPClient\TCP클라이언트\obj\Debug\TCP클라이언트.exe
+C:\Users\Administor\Desktop\C#\TCP클라이언트\TCPClient\TCP클라이언트\obj\Debug\TCP클라이언트.pdb
